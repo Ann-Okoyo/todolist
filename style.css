@@ -1,0 +1,65 @@
+/* /*  */
+.image img{
+    width: 10%;
+    height: 10%;
+    border-radius: 14%;
+}
+body {
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+ 
+  .jeff {
+    background-color:bisque;
+    margin: 0 auto;
+    width: 50%;
+
+    /* padding: 20px; */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888888;
+  }
+  
+  .name {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input[type="text"] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+  }
+  
+  button[type="add"] {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 11px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 7px;
+    
+  }
+  
+  
